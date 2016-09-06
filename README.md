@@ -1,2 +1,1 @@
-# MATH
-Mathematics Course
+This repo contains the materials for the Mathematics Course
