@@ -1,0 +1,10 @@
+Computer exercises (1)
+======================
+
+1. Calculate the number e using the function exp and as the limit of the two sequences:
+  x_n = (1 + 1/n)^n
+  y_n = sum_{k=0}^n 1/factorial(k)
+
+2. Plot the curve 
+  y = (1/sqrt(2*pi))*exp(-x^2/2) 
+
