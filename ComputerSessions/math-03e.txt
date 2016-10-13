@@ -1,6 +1,0 @@
-Computer exercises (3)
-
-1. Create the vector
-  x <- sample(c("H","T"), size=1000, replace=T)
-
-2. Create a function that measures the length of longest run of heads in a sequence of 1,000 coin tosses. Apply it to the vector x created in the preceding exercise.
