@@ -1,7 +1,0 @@
-Computer exercises (2)
-
-1. Create the vector
-  x <- sample(1:5, size=1000, replace=T)
-  What is this?
-
-2. Create a function that counts the number of 1's contained in a sequence. Apply it to the vector x created in the preceding exercise.
