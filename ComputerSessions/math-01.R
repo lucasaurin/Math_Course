@@ -1,4 +1,4 @@
-## [MATH-01C] Simple math with R ##
+## [MATH-01] Simple math with R ##
 
 # Start
 2 + 2
