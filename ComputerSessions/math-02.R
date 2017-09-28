@@ -1,4 +1,4 @@
-## [MATH-03C] Vectors and matrices in R ##
+## [MATH-02] Vectors and matrices in R ##
 
 # Vectors #
 x = c(2, 3, 7, -1, 0)
